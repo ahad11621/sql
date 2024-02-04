@@ -1,6 +1,6 @@
 /*
 Problem link:
-https://leetcode.com/problems/recyclable-and-low-fat-products/description/
+https://leetcode.com/problems/recyclable-and-low-fat-products/
 */
 
 --Solution:
